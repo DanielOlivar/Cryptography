@@ -33,6 +33,6 @@ Includes implementations of algorithms such as **RC4**, **TEA**, **MD2**, and **
 
 ### 👨‍💻 Author
 
-**Axel Daniel Olivar**  
-Computer Engineering Student  
+**Daniel Olivar**  
+Computer Engineer
 [GitHub: @DanielOlivar](https://github.com/DanielOlivar)
